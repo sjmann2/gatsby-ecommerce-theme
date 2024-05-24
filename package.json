@@ -23,10 +23,12 @@
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-slick": "^0.30.2",
-    "@netlify/build": "29.41.3"
+    "@netlify/build": "29.41.3",
+    "@netlify/plugin-gatsby": "3.8.0"
   },
   "devDependencies": {
     "plop": "^3.0.5",
     "prettier": "^3.2.5"
+    
   }
 }
